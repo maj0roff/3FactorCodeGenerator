@@ -1,6 +1,6 @@
 #
 # 3FCG 
-# 3FactoreCodeGenerator
+# 3FactorCodeGenerator
 #
 
 # > How to use?
